@@ -1,0 +1,14 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore dataset files (large or personal data)
+data/
+
+# Ignore compiled Python files and caches
+__pycache__/
+*.py[cod]
+
+# Ignore system or IDE files
+.DS_Store
+Thumbs.db
+.vscode/
